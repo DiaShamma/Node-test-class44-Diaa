@@ -1,5 +1,5 @@
-<pre>
-<strong>NODE-TEST-CLASS44-DIAA/</strong>
+<details>
+<summary><strong>NODE-TEST-CLASS44-DIAA/</strong></summary>
 |-- <strong>app/</strong>
 |   |-- controllers/
 |   |   |-- movieController.js
@@ -15,4 +15,4 @@
 |   |-- jest.config.js
 |   |-- package.json
 |-- <strong>README.md</strong>
-</pre>
+</details>
